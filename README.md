@@ -2,7 +2,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Jorge-Bedoya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jorge-alberto-bedoya-montoya-1318a7229//) 
 
-
+![Profile views](https://github.com/Jorge-Bedoya)
 
 
 <!--
