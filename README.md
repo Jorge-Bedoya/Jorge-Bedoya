@@ -19,13 +19,12 @@ Me caracterizo por ser proactivo y con gran pasión por el aprendizaje.
 ![git](https://user-images.githubusercontent.com/54302061/211168160-75e46858-9a95-474d-aedf-4fc6460815f9.png)
 ![java](https://user-images.githubusercontent.com/54302061/211168153-061a83aa-e2f9-45eb-bb4c-0db1679f0bc0.png)
 
+--------------
 
+Conecta conmigo:
 
+[![](https://user-images.githubusercontent.com/54302061/211169314-64c36b3c-93cb-40ad-9e5d-4071d19552d5.png)](https://www.linkedin.com/in/jorge-bedoya-it/)
 
-Connect with me:
-
-[![](https://user-images.githubusercontent.com/54302061/211168976-45407bc6-dcd6-40b2-b2dd-b8c9d50ea369.png)](https://www.linkedin.com/in/jorge-bedoya-it/)
-  
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Jorge-Bedoya)](https://github.com/ryo-ma/github-profile-trophy)
 
