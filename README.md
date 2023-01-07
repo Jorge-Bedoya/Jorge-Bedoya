@@ -1,6 +1,6 @@
-## Hola 👋, Mi nombre es Jorge Bedoya 👨‍💻
+## Hola 👋, Soy Jorge Bedoya 👨‍💻
 
-Soy técnico en sistemas y redes de datos, Ingeniero en sistemas y computación en formación, cuento con experiencia en resolución de fallas de Hardware, Software y electrónica enfocada a la computación. 
+Técnico en sistemas y redes de datos, Ingeniero en sistemas y computación en formación, cuento con experiencia en resolución de fallas de Hardware, Software y electrónica enfocada a la computación. 
 
 Busco constantemente desarrollarme profesionalmente, cumplir con las metas propuestas, formar parte de un excelente equipo de trabajo cooperando y apoyándolos de la mejor manera posible.
 
