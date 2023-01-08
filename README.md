@@ -13,7 +13,7 @@ Me caracterizo por ser proactivo y con gran pasión por el aprendizaje.
 ![css](https://user-images.githubusercontent.com/54302061/211168069-013c48b5-fb25-4bcf-950a-55aa30cf8720.png)
 ![js](https://user-images.githubusercontent.com/54302061/211168085-73aed99e-1510-4bb5-b92a-9c7844be7ae9.png)
 ![python](https://user-images.githubusercontent.com/54302061/211168102-fb84a548-1019-4fb4-8ed4-d89a9b8fb4e4.png)
-![c++](https://user-images.githubusercontent.com/54302061/211168116-dd1e23a8-2bf8-4cdf-890e-947a9286436e.png)
+![c++](https://user-images.githubusercontent.com/54302061/211190233-b7b57818-3537-4035-b5ba-a930e0abbbb8.png)
 ![php](https://user-images.githubusercontent.com/54302061/211168133-a62187c0-0e05-483b-9ef0-edf509296198.png)
 ![nodejs](https://user-images.githubusercontent.com/54302061/211168141-966c3b14-0c10-434c-818e-b71a63f313bc.png)
 ![git](https://user-images.githubusercontent.com/54302061/211168160-75e46858-9a95-474d-aedf-4fc6460815f9.png)
